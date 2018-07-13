@@ -1,0 +1,2 @@
+# maps
+Rspamd dynamic maps
