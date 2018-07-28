@@ -228,6 +228,7 @@ closebrothers.co.uk
 clubsc.ch
 cnet.com
 cnn.com
+co.kg
 colpatria.com
 colpatria.com.co
 comcast.net
