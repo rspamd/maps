@@ -164,6 +164,7 @@ clicks.biletix.ru
 click.email4customers.com
 click.emailinfo.mail.hpe.com
 click.icptrack.com
+click.mlsend.com
 click-me.us
 clickthru.ca
 clickv.tk
