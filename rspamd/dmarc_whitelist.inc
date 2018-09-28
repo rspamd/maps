@@ -76,7 +76,8 @@ us-cert.gov
 usps.com
 utair.ru
 verizonwireless.com
-vk.com
+# Enable after 1.8.1 release!
+# vk.com bl:1.0 
 vkrugudruzei.ru
 westernunion.com
 whatsapp.com
