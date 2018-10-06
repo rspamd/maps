@@ -829,3 +829,12 @@ lists.roundcube.net
 svn.apache.org
 taggedmail.com
 tumblr.com
+mabanque.bnpparibas
+cetelem.fr
+hellobank.fr
+bforbank.com
+boursorama-banque.com
+credit-du-nord.fr
+cic.fr
+labanquepostale.fr
+ingdirect.fr
