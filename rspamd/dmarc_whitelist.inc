@@ -187,6 +187,7 @@ dartford.gov.uk
 dartmoor.gov.uk
 dataprotection.gov.uk
 daventrydc.gov.uk
+dellin.ru
 denbighshire.gov.uk
 deutsche-bank.de
 deutschebank.be
@@ -642,6 +643,7 @@ swift.com
 symantec.com
 synologynotification.com
 taobao.com
+tatar.ru
 tauntondeane.gov.uk
 tda.gov.uk
 tdk.gov.tr
@@ -738,6 +740,7 @@ youla.ru
 youth.gov
 youthrules.gov
 youtube.com
+zcts.ru
 zendesk.com
 zionsbank.com
 zomato.com
