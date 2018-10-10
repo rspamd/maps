@@ -5,7 +5,6 @@
 18f.gov
 1password.com
 2gis.com
-2gis.ru
 4chan.org
 4pda.ru
 9-11commission.gov
