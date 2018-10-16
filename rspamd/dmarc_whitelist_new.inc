@@ -737,6 +737,7 @@ womenshealth.gov
 wrexham.gov.uk
 wrigley.com
 wrp.gov
+yandex-team.ru
 york.gov.uk
 youla.ru
 youth.gov
