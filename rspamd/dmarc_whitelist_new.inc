@@ -585,6 +585,7 @@ safercar.gov
 samhsa.gov
 sanmarcostx.gov
 sberbank.ru both:1.0
+sberbank-ast.ru
 sbir.gov
 scality.com
 scdhhs.gov
