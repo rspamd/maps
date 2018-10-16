@@ -554,6 +554,7 @@ psc.gov
 punjab.gov.in
 puzzle-english.com
 qiwi.com
+qiwi.ru
 rabota.ru
 rbkc.gov.uk
 ready.gov
