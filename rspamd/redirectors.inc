@@ -125,6 +125,7 @@ bit.gy
 bit.ly
 bitleyco.cc
 bitly.com
+bitrix24.ru
 biturl.net
 bit.uz
 bizj.us
