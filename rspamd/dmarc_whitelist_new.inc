@@ -586,7 +586,7 @@ sacn.gov.uk
 safercar.gov
 samhsa.gov
 sanmarcostx.gov
-sberbank.ru both:1.0
+sberbank.ru
 sberbank-ast.ru
 sbir.gov
 scality.com
