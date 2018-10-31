@@ -589,6 +589,7 @@ sanmarcostx.gov
 sberbank.ru
 sberbank-ast.ru
 sbir.gov
+sbis.ru
 scality.com
 scdhhs.gov
 science360.gov
