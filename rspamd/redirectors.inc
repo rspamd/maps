@@ -573,6 +573,7 @@ ow.ly
 o-x.fr
 p1.fr
 pathto.net
+paypal-communication.com
 pb8.ru
 pburl.com
 pcw.ro
