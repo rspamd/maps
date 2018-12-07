@@ -2,6 +2,7 @@
 # Domains with valid DMARC and DKIM
 # These domains come from some top visited sites that have restrictive dmarc policy
 # This file is intended for Rspamd version 1.8.1+
+# Keep sorted when editing to simplify tracks
 
 18f.gov
 1password.com
@@ -204,6 +205,7 @@ disability.gov
 disability.gov.uk
 dnfsb.gov
 docker.com
+docusign.net
 doe.gov
 doioig.gov
 dol.gov
