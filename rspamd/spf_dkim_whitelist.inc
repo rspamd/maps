@@ -229,5 +229,6 @@ zappos.com
 zendesk.com
 zippyshare.com
 zomato.com
+zoom.us
 zulily.com
 zwift.com
