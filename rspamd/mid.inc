@@ -11,6 +11,7 @@ garant.ru
 is-zakupki.com
 mirtesen.ru
 fcod.nalog.ru
+www.nalog.ru
 otc.ru
 qiwi.ru
 client.rostelecom.ru
