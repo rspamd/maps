@@ -9,6 +9,7 @@ noreply.etprf.ru
 rkn.gov.ru
 garant.ru
 is-zakupki.com
+kassir.ru
 mirtesen.ru
 fcod.nalog.ru
 www.nalog.ru
