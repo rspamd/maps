@@ -162,6 +162,7 @@ clck.ru
 cliccami.info
 click2.info
 clicks.biletix.ru
+clicks.citilink.ru
 click.email4customers.com
 click.emailinfo.mail.hpe.com
 click.icptrack.com
