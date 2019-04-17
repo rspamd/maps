@@ -224,6 +224,7 @@ application/prs.plucker 0
 application/prs.rdf-xml-crypt 0
 application/prs.xsf+xml 0
 application/pskc+xml 0
+application/rar 0
 application/raptorfec 0
 application/rdap+json 0
 application/rdf+xml 0
@@ -1124,6 +1125,8 @@ application/wita 0
 application/wordperfect5.1 0
 application/wsdl+xml 0
 application/wspolicy+xml 0
+application/x-excel 0
+application/x-gzip 0
 application/x-msdownload 0
 application/x-pkcs12
 application/x-www-form-urlencoded 0
