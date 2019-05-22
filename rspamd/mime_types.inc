@@ -1132,6 +1132,7 @@ application/x-pkcs12
 application/x-www-form-urlencoded 0
 application/x-tar
 application/x-x509-ca-cert
+application/x-7z-compressed 0
 application/x-zip-compressed 0
 application/x400-bp 0
 application/xacml+xml 0
