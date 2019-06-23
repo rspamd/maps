@@ -348,6 +348,7 @@ canada-11.com
 canadianmail.com
 canoemail.com
 caramail.com
+caramail.fr
 care2.com
 careerbuildermail.com
 carioca.net
@@ -948,11 +949,18 @@ globalpagan.com
 gmail.com
 gmail.com.br
 gmx.at
+gmx.biz
+gmx.ch
 gmx.co.uk
 gmx.com
 gmx.de
+gmx.eu
+gmx.fr
+gmx.info
 gmx.li
 gmx.net
+gmx.org
+gmx.us
 go.com
 go.ro
 go.ru
