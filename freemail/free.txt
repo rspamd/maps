@@ -60,6 +60,7 @@
 8mail.ml
 97rock.com
 99experts.com
+9online.fr
 a1.net
 a45.in
 aaamail.zzn.com
@@ -360,6 +361,7 @@ catchamail.com
 catholic.org
 catlover.com
 cd2.com
+cegetel.net
 celineclub.com
 celtic.com
 center-mail.de
@@ -432,6 +434,8 @@ clubalfa.com
 clubbers.net
 clubducati.com
 clubhonda.net
+club-internet.fr
+clubinternet.fr
 clubmember.org
 clubnetnoir.com
 clubvdo.net
