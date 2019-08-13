@@ -236,6 +236,7 @@ ej.uz
 elurl.com
 email.account.2gis.com
 email.mail.ostrovok.ru
+email.mxtoolbox.com
 email.news.ostrovok.ru
 e.mail.ru
 em.digium.com
