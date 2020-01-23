@@ -4,6 +4,7 @@
 alibaba.com /^[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}-0$/
 aliexpress.com /^(?:(?:[0-9]{14,15}|[a-z]{4}UTT_[0-9]{5,6}_(?:(?:[0-9]{7,8}|0)_)?)[$])?[a-f0-9]{32}$/
 beeline.ru /^<[A-z0-9+]{18}>$/
+cdek.ru
 noreply.esphere.ru
 noreply.etprf.ru
 rkn.gov.ru
