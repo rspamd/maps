@@ -169,6 +169,7 @@ researchgate.net
 salesforce.com
 sciencedirect.com
 shopify.com
+skanetrafiken.se
 slack.com
 slideshare.net
 so-net.ne.jp
