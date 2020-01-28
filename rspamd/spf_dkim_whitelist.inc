@@ -171,6 +171,7 @@ salesforce.com
 sciencedirect.com
 shopify.com
 skanetrafiken.se
+skat.dk
 skatteverket.se
 slack.com
 slideshare.net
