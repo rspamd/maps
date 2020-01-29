@@ -614,6 +614,7 @@ shropshire-cc.gov.uk
 shutterstock.com
 sigtarp.gov
 sk.ru
+skat.dk
 skatteverket.se
 skbbank.ru
 skittles.com
