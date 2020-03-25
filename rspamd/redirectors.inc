@@ -428,6 +428,7 @@ linkee.com
 link.from.homecredit.ru
 link.hhut.ru
 linkl.ru
+link.mail.1fd-system.ru
 link.mail.e.glavbukh-mail.ru
 link.mail.glavbukh-mail.ru
 link.rengo.ru
