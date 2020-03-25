@@ -430,6 +430,7 @@ link.hhut.ru
 linkl.ru
 link.mail.1fd-system.ru
 link.mail.e.glavbukh-mail.ru
+link.mail.fd-online.ru
 link.mail.glavbukh-mail.ru
 link.rengo.ru
 link.sendsay.ru
