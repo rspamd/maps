@@ -1129,10 +1129,10 @@ application/wspolicy+xml 0
 application/x-excel 0
 application/x-gzip 0
 application/x-msdownload 0
-application/x-pkcs12
+application/x-pkcs12 0
 application/x-www-form-urlencoded 0
-application/x-tar
-application/x-x509-ca-cert
+application/x-tar 0
+application/x-x509-ca-cert 0
 application/x-7z-compressed 0
 application/x-zip-compressed 0
 application/x400-bp 0
