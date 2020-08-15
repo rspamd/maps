@@ -141,6 +141,7 @@ nikkeibp.co.jp
 nyaa.se
 nytimes.com
 odnoklassniki.ru
+ofd.yandex.ru
 ok.ru
 olx.ua
 overstock.com
