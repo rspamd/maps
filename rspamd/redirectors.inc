@@ -696,6 +696,7 @@ safe.mn
 saf.li
 sami.24.gg
 sayabit.com
+sbrf.link.info.sberbank.ru
 s.coop
 scurtare-url.hi2.ro
 sdut.us
