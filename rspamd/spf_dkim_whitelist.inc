@@ -1,5 +1,6 @@
 # Domains with valid SPF and DKIM
 
+1cfresh.com
 4chan.org
 6pm.com
 about.com
