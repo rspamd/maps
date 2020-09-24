@@ -195,6 +195,7 @@ taringa.net
 taxi.yandex.ru
 tele2.ru
 thekitchn.com
+tochka.com
 tokopedia.com
 trello.com
 tribunnews.com
