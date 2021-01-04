@@ -525,10 +525,20 @@ passport.gov.uk
 payeer.com
 paymentaccuracy.gov
 paypal-community.com
+paypal.be both:1.0
+paypal.cn both:1.0
+paypal.co.il both:1.0
 paypal.co.uk both:1.0
 paypal.com both:1.0
+paypal.com.au both:1.0
 paypal.com.br both:1.0
+paypal.com.mx both:1.0
 paypal.de both:1.0
+paypal.dk both:1.0
+paypal.es both:1.0
+paypal.fr both:1.0
+paypal.nl both:1.0
+paypal.se both:1.0
 pbgc.gov
 pc.gov.au
 pch.com
