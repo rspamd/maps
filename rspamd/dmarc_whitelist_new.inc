@@ -223,11 +223,18 @@ eastdunbarton.gov.uk
 eaststaffsbc.gov.uk
 eastsuffolk.gov.uk
 ebay.be
+ebay.ca
+ebay.ch
 ebay.co.uk both:1.0
+ebay.com
+ebay.com.au
 ebay.com.cn
+ebay.de
+ebay.es
 ebay.eu
 ebay.fr
 ebay.in
+ebay.it
 ebay.se
 economy.gov.tr
 econsumer.gov
