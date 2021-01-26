@@ -390,6 +390,7 @@ kassy.ru
 kent.gov.uk
 kids.gov
 kingston.gov.uk
+kivra.com
 kpk.gov.pl
 lacoast.gov
 landsbanki.is
