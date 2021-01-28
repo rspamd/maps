@@ -391,6 +391,8 @@ kent.gov.uk
 kids.gov
 kingston.gov.uk
 kivra.com
+klarna.com
+klarna.se
 kpk.gov.pl
 lacoast.gov
 landsbanki.is
