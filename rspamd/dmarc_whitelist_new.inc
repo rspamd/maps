@@ -130,6 +130,7 @@ bromley.gov.uk
 bts.gov
 business.gov
 caerphilly.gov.uk
+caixa.gov.br
 cambridge-news.co.uk
 campaign.gov.uk
 cancer.gov
@@ -498,6 +499,11 @@ nist.gov
 nixonlibrary.gov
 nkh.gov.hu
 noaa.gov
+nordea.dk
+nordea.com
+nordea.fi
+nordea.no
+nordea.se
 north-ayrshire.gov.uk
 north-norfolk.gov.uk
 northlincs.gov.uk
