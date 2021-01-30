@@ -130,7 +130,7 @@ bromley.gov.uk
 bts.gov
 business.gov
 caerphilly.gov.uk
-caixa.gov.br
+caixa.gov.br both:1.0
 cambridge-news.co.uk
 campaign.gov.uk
 cancer.gov
@@ -166,7 +166,7 @@ colgate.com.br
 collegedrinkingprevention.gov
 companies-house.gov.uk
 comuneap.gov.it
-conab.gov.br
+conab.gov.br both:1.0
 concerts.com
 consultant.ru
 contact-sys.com
@@ -634,7 +634,7 @@ semnan.ac.ir
 senate.gov
 sendgrid.net bl:1
 seniorcorps.gov
-serpro.gov.br
+serpro.gov.br both:1.0
 service.gov.uk
 sftool.gov
 shetland.gov.uk
@@ -705,7 +705,7 @@ tradingstandards.gov.uk
 treas.gov
 trial-sport.ru
 tsa.gov
-tst.gov.br
+tst.gov.br both:1.0
 tuba.gov.tr
 turystyka.gov.pl
 tutu.ru
@@ -744,7 +744,7 @@ vigoda.ru
 visa.co.uk
 visa.com
 visa.com.ar
-visa.com.br
+visa.com.br both:1.0
 visa.com.cn
 visa.com.tw
 visa.pl
