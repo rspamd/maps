@@ -496,6 +496,7 @@ miliuner.com
 miniurl.com
 miniurl.net.ru
 miniurl.pl
+mimecast.com
 minu.me
 minurl.fr
 minyurl.net
@@ -621,6 +622,7 @@ privacy-surf.com
 proext.com
 professionali.ru
 profile.to
+proofpoint.com
 prourl.de
 ptiturl.com
 p.tl
@@ -694,6 +696,7 @@ s7y.us
 s8.hk
 safe.mn
 saf.li
+safelinks.protection.outlook.com
 sami.24.gg
 sayabit.com
 sbrf.link.info.sberbank.ru
