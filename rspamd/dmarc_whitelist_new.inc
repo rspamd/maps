@@ -611,6 +611,7 @@ ros.gov.uk
 roseltorg.ru
 rostelecom.ru
 roundrocktexas.gov
+royalmail.com
 rozetka.com.ua
 rt.com
 rt.ru
