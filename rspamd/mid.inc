@@ -26,3 +26,7 @@ promo.wildberries.ru /^[A-F0-9]{8}(?:-[A-F0-9]{4}){3}-[A-F0-9]{12}$/
 taxi.yandex.ru /^[a-f0-9]{32}$/
 mail.youdo.com
 online.zcts.ru
+mail.authorize.net
+craigslist.org
+maersk.com
+monster.com
