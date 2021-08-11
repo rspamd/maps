@@ -456,13 +456,14 @@ ln4.me
 lnk.by
 lnk.cm
 lnk.co
-lnkd.in
 lnk.gd
 lnk.in
 lnk.ly
 lnk.ms
-lnks.it
 lnk.sk
+lnkd.in
+lnks.gd
+lnks.it
 lnkstts.com
 lnkurl.com
 ln-s.net
