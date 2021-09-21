@@ -414,8 +414,8 @@ locatorplus.gov
 lostfilm.tv
 louisvilleco.gov
 love.ru
-lufthansa.com
 lufthansa-group.com
+lufthansa.com
 mackeeper.com
 mailgun.net bl:1.0
 mak.com
