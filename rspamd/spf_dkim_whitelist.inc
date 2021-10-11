@@ -164,7 +164,6 @@ pch.com
 pinterest.com
 porn.com
 priceline.com
-qq.com
 quora.com
 rakuten.co.jp
 reddit.com
