@@ -16,6 +16,7 @@ fcod.nalog.ru
 www.nalog.ru
 otc.ru
 professionali.ru
+psbank.ru
 qiwi.ru
 client.rostelecom.ru
 sberbank-ast.ru
