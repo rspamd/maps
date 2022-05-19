@@ -6,6 +6,7 @@ aliexpress.com /^(?:(?:[0-9]{14,16}|[a-z]{4}(?:COWS|UTT)_[0-9]{3,6}_(?:(?:[0-9]{
 beeline.ru /^<[A-z0-9+]{18}>$/
 cdek.ru
 noreply.esphere.ru
+etpgpb.ru
 noreply.etprf.ru
 rkn.gov.ru
 garant.ru
