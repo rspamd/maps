@@ -1,6 +1,7 @@
 # Known invalid or missed Message-IDs
 # 'domain' 'Message-ID regexp'
 
+1c-bitrix.ru
 alibaba.com /^[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}-0$/
 aliexpress.com /^(?:(?:[0-9]{14,16}|[a-z]{4}(?:COWS|UTT)_[0-9]{3,6}_(?:(?:[0-9]{7,8}|0)_)?)[$])?[a-f0-9]{32}$/
 beeline.ru /^<[A-z0-9+]{18}>$/
