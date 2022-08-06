@@ -1296,8 +1296,10 @@ audio/vnd.rhetorex.32kadpcm 0
 audio/vnd.rip 0
 audio/vnd.sealedmedia.softseal-mpeg 0
 audio/vnd.vmx.cvsd 0
+audio/vnd.wave 0
 audio/vorbis 0
 audio/vorbis-config 0
+audio/x-wav 0
 image/bmp 0
 image/cgm 0
 image/example 0
