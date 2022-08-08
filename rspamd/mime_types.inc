@@ -1242,6 +1242,7 @@ audio/mobile-xmf 0
 audio/mp4 0
 audio/mpa-robust 0
 audio/mpeg 0
+audio/mpeg3 0
 audio/mpeg4-generic 0
 audio/ogg 0
 audio/opus 0
@@ -1300,6 +1301,7 @@ audio/vnd.wave 0
 audio/vorbis 0
 audio/vorbis-config 0
 audio/wav 0
+audio/x-mpeg-3 0
 audio/x-wav 0
 image/bmp 0
 image/cgm 0
