@@ -6,6 +6,7 @@ alibaba.com /^[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}-0$/
 aliexpress.com /^(?:(?:[0-9]{14,16}|[a-z]{4}(?:COWS|UTT)_[0-9]{3,6}_(?:(?:[0-9]{7,8}|0)_)?)[$])?[a-f0-9]{32}$/
 beeline.ru /^<[A-z0-9+]{18}>$/
 cdek.ru
+citilink.ru
 noreply.esphere.ru
 etpgpb.ru
 noreply.etprf.ru
@@ -21,6 +22,7 @@ otc.ru
 professionali.ru
 psbank.ru
 qiwi.ru
+robokassa.ru
 client.rostelecom.ru
 sberbank-ast.ru
 taxcom.ru
