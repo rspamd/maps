@@ -141,6 +141,7 @@ centralbedfordshire.gov.uk
 ceredigion.gov.uk
 cesg.gov.uk
 cfda.gov
+cdc.gov
 cfo.gov
 challenge.gov
 change.org
@@ -149,6 +150,7 @@ chcoc.gov
 childstats.gov
 cio.gov
 circle.com
+cisa.gov
 citibank.ae
 citibank.co.in
 citibank.co.uk
@@ -236,6 +238,7 @@ eldorado.ru
 emarsys.com
 ems.gov
 energystar.gov
+epa.gov
 erewash.gov.uk
 esetnod32.ru
 essex-fire.gov.uk
@@ -246,6 +249,7 @@ evus.gov
 exist.ru
 facebook.com
 facebookmail.com
+faa.gov
 fbi.gov
 fcc.gov
 fco.gov.uk
@@ -583,6 +587,7 @@ sacn.gov.uk
 safercar.gov
 samhsa.gov
 sanmarcostx.gov
+sba.gov
 sberbank.ru
 sbir.gov
 scality.com
@@ -680,6 +685,7 @@ ulmart.ru
 unicor.gov
 uniras.gov.uk
 ups.com
+usda.gov
 uralairlines.ru
 us-cert.gov
 usa.gov
