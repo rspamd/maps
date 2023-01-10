@@ -918,6 +918,7 @@ url.co.uk
 urlcover.com
 urlcut.com
 urldefender.com
+urldefense.com
 urldepo.ru
 url.dflix.net
 urlel.com
