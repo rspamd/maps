@@ -389,6 +389,7 @@ justice.gov.uk
 jyskebank.dk
 kassy.ru
 kent.gov.uk
+keys.openpgp.org
 kids.gov
 kingston.gov.uk
 kivra.com
