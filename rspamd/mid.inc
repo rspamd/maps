@@ -20,6 +20,7 @@ mirtesen.ru
 fcod.nalog.ru
 www.nalog.ru
 otc.ru
+sender.ozon.ru /^[A-z0-9+]{32}$/
 professionali.ru
 psbank.ru
 qiwi.ru
