@@ -861,6 +861,10 @@ trii.us
 tr.im
 trimurl.me
 trk.emlbest.com
+trk.klclick.com
+trk.klclick1.com
+trk.klclick2.com
+trk.klclick3.com
 trunc.it
 trusteml.com
 tty.su
