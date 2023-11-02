@@ -17,6 +17,7 @@ is-zakupki.com
 kassir.ru
 mail-us.jira.com /^[a-f0-9]{8}(?:-[a-f0-9]{4}){3}-[a-f0-9]{12}$/
 mirtesen.ru
+mts.ru
 fcod.nalog.ru
 www.nalog.ru
 otc.ru
