@@ -28,6 +28,7 @@ psbank.ru
 qiwi.ru
 robokassa.ru
 client.rostelecom.ru
+rts-tender.ru
 sberbank-ast.ru
 taxcom.ru
 crm.taxcom.ru
