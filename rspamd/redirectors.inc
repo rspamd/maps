@@ -663,6 +663,7 @@ read.bi
 readthis.ca
 reallytinyurl.com
 redir.ec
+redirect.viglink.com
 redirectingat.com
 redirects.ca
 redirect.subscribe.ru
