@@ -114,6 +114,7 @@ b2l.me
 backupurl.com
 bacn.me
 bai.lu
+bbe.li
 bcool.bz
 bezurl.com
 bi.gl
@@ -125,6 +126,7 @@ bit.gy
 bit.ly
 bitleyco.cc
 bitly.com
+bitly.ws
 bitrix24.ru
 biturl.net
 bit.uz
@@ -199,6 +201,7 @@ ctvr.us
 cug.kr
 cut4.me
 cut.by
+cutt.ly
 cuthut.com
 cutt.us
 d2u.us
@@ -232,6 +235,7 @@ easyuri.com
 easyurl.jp
 easyurl.net
 eepurl.com
+etiny.io
 ej.uz
 elurl.com
 email.account.2gis.com
@@ -311,7 +315,9 @@ go-links.net
 golook.at
 go.ly
 good.ly
+goo.by
 goo.gl
+goo.su
 goo.pm
 go.qb.by
 goshrink.com
@@ -412,6 +418,7 @@ l3ss.me
 l9k.net
 lat.ms
 lavvs.com
+lc.cx
 lcut.us
 leeturl.net
 leto.tk
@@ -451,6 +458,7 @@ littleurl.net
 liurl.cn
 livehoster.org
 llinks.net
+ln.run
 ln0.ru
 ln4.me
 lnk.by
@@ -462,6 +470,7 @@ lnk.ly
 lnk.ms
 lnk.sk
 lnkd.in
+lnkiy.in
 lnks.gd
 lnks.it
 lnkstts.com
@@ -537,6 +546,7 @@ myxx.me
 mzan.si
 n3n.in
 n3r.ru
+n9.cl
 nbc.co
 nblo.gs
 nbold.com
@@ -655,6 +665,7 @@ quik.in
 qurl.com
 qu.tc
 qz.bz
+rb.gy
 rb6.me
 r.delphicomponent.ru
 rdrct.us
@@ -733,9 +744,13 @@ shortn.me
 short.nr
 short.su
 short.to
+shorturl.at
 shorturl.asia
 shorturl.com
+shorturl.me
+shorturl.net
 short-url.co.uk
+shorter.me
 shorturls.co.uk
 shortz.me
 shout.to
@@ -794,6 +809,7 @@ su.ly
 su.pr
 surl.co.uk
 surl.hu
+surl.li
 surl.me
 surs.nl
 susurl.com
@@ -806,6 +822,7 @@ taourl.com
 tbd.ly
 t.cn
 t.co
+t.ly
 tcrn.ch
 techto.us
 tez.co
@@ -898,10 +915,12 @@ u.mavrev.com
 umenytt.se
 unfake.it
 u.nu
+ulvis.net
 updating.me
 ur1.ca
 ur3.us
 ural-tender.ru
+url1.io
 url2.ru
 url360.me
 url3.ru
@@ -944,6 +963,7 @@ urlite.de
 url.lotpatrol.com
 urlmint.com
 url.mk.ua
+urlc.net
 urlms.com
 urloid.com
 urloo.com
@@ -954,6 +974,7 @@ urls.co.za
 url.shinri.biz
 urlshorteningservicefortwitter.com
 urlshort.me
+urlis.net
 urls.im
 urlsim.com
 urlsnip.com
@@ -969,9 +990,11 @@ urlxs.fr
 ur.ly
 url.yanclex.com
 urlz.at
+urlz.fr
+urlz.ro
+urlzs.com
 urlzen.com
 url-zip.com
-urlz.ro
 usat.ly
 use.my
 u.to
@@ -991,6 +1014,7 @@ vll.me
 vog.me
 vovka.com
 vst.tv
+vu.fr
 w3t.org
 w55.de
 wa.la
@@ -1019,6 +1043,7 @@ wuw.su
 ww.tl
 www.clickmeeting.com
 www.grandstreamnetworks.ru
+www.shorturl.at
 www.reg.ru
 wz.ae
 x2t.com
