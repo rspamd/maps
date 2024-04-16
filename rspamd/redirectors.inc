@@ -239,6 +239,7 @@ eepurl.com
 ej.uz
 elurl.com
 em.digium.com
+emea01.safelinks.protection.outlook.com
 email.account.2gis.com
 email.mail.ostrovok.ru
 email.mxtoolbox.com
