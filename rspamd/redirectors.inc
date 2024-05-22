@@ -821,6 +821,7 @@ softlinemail.ru
 sokrati.ru
 somexyz.com
 song.ly
+sophos.com
 sorturl.net
 sp2.ro
 spedr.com
