@@ -78,6 +78,7 @@ aa.cx
 aafter.us
 abe5.com
 access.im
+acemlnb.com
 action-emails.ru
 ad.vu
 ad4.us
@@ -192,6 +193,7 @@ cnect.us
 comyonet.com
 conta.cc
 convertkit-mail4.com
+convertkit-mail.com
 coolestone.com
 cort.as
 cortas.elpais.com
@@ -256,12 +258,14 @@ ej.uz
 elurl.com
 em.digium.com
 emea01.safelinks.protection.outlook.com
+emailpartners.net
 email.account.2gis.com
 email.advisera.com
 email.mail.ostrovok.ru
 email.mxtoolbox.com
 email.news.ostrovok.ru
 emap.ws
+emlnk9.com
 emlstart.com
 esclick.me
 etdurl.com
@@ -394,6 +398,9 @@ ih3.ru
 ikeafamilynews.ru
 ilix.in
 ilnk.me
+informamail01.com
+informamail02.com
+informamail03.com
 informer.ru
 innogam.es
 ino.me
@@ -427,6 +434,7 @@ kisaurl.com
 kl.am
 klck.me
 klclick1.com
+klclick.com
 klik.sihitam.com
 klx.co
 knb.im
@@ -522,6 +530,7 @@ ly9.net
 m4u.in
 m7a.org
 macte.ch
+mailanyone.net
 mailinblack.com
 maillist-manage.com
 maillist-manage.in
@@ -537,6 +546,7 @@ migre.me
 miliuner.com
 mimecast.com
 mimecastprotect.com
+mimecast-offshore.com
 miniurl.com
 miniurl.net.ru
 miniurl.pl
@@ -567,6 +577,7 @@ mtp.pl
 mty.in
 mug.gs
 murl.kz
+musvc2.net
 mvp.im
 mylink.to
 mylink4u.info
@@ -610,6 +621,7 @@ now.am
 nsfw.in
 nutshellurl.com
 nxy.in
+nylas.com
 nyti.ms
 o-x.fr
 o.ly
@@ -678,6 +690,7 @@ professionali.ru
 profile.to
 proofpoint.com
 prourl.de
+pstmrk.it
 ptiturl.com
 pub.vitrue.com
 punyurl.com
@@ -758,15 +771,18 @@ safelinks.protection.outlook.com
 sami.24.gg
 sayabit.com
 sbrf.link.info.sberbank.ru
+scanmailx.com
 scurtare-url.hi2.ro
 sdut.us
 securityexpert.ru
 securl.ru
+sendassets.io
 sendgrid.net
 sendibm1.com
 sendibm2.com
 sendibm3.com
 sendit.in
+sendpdr.com
 sendpul.se
 sendsay.ru
 sendurl.info
@@ -856,6 +872,7 @@ starts.com
 starturl.com
 stat-pulse.com
 stnx.at
+streaklinks.com
 stump.ws
 su.ly
 su.pr
@@ -905,6 +922,7 @@ tinylink.in
 tinyuri.ca
 tinyurl.com
 tinyurl.ru
+titanhq.com
 tki.me
 tl.gd
 tldr.in
@@ -927,6 +945,7 @@ tozm.com
 tpm.ly
 tr.im
 tra.kz
+trcmlsrvcs.com
 trendmicro.com
 track-mail.skbkontur.ru
 trg.li
@@ -1069,6 +1088,7 @@ vl.am
 vll.me
 vog.me
 vovka.com
+voxmail.it
 vst.tv
 vu.fr
 w3t.org
@@ -1135,6 +1155,7 @@ yfrog.com
 yhoo.it
 yi.pe
 yiyd.com
+ymlpsend9.net
 ysu.me
 yuarel.com
 yurl.in
