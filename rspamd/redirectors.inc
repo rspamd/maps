@@ -175,6 +175,7 @@ cliccami.info
 click-me.us
 click.email4customers.com
 click.emailinfo.mail.hpe.com
+click.txn-email.account.sony.com
 click.icptrack.com
 click.mlsend.com
 click2.info
