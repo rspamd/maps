@@ -558,6 +558,7 @@ minyurl.org
 mislead.in
 miud.in
 mixe.me
+mj.am
 mj.is
 mjt.lu
 mke.me
