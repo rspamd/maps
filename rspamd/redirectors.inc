@@ -571,6 +571,7 @@ n.pr
 n3n.in
 n3r.ru
 n9.cl
+nam12.safelinks.protection.outlook.com
 nam.safelink.emails.azure.net
 nbc.co
 nblo.gs
