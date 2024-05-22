@@ -105,6 +105,7 @@ ar.gy
 arm.in
 arst.ch
 atiny.me
+attentivemail.com
 atto.co.za
 atu.ca
 autodesk.com
@@ -206,6 +207,7 @@ crop.im
 crum.pl
 ctvr.us
 cug.kr
+customeriomail.com
 cut.by
 cut4.me
 cuthut.com
@@ -217,6 +219,7 @@ da.lc
 dai.ly
 ddp.net
 decenturl.com
+delivery-status.com
 delivr.com
 dev0.ru
 dft.ba
@@ -263,6 +266,7 @@ emlstart.com
 esclick.me
 etdurl.com
 etiny.io
+etrack01.com
 eweri.com
 exa.im
 f1ru.net
@@ -314,6 +318,8 @@ get.sh
 get.tf
 geteml.com
 getlink.info
+getresponse.com
+getsendmail.com
 gho.co
 gig140.com
 gizmo.do
@@ -441,6 +447,7 @@ lavvs.com
 lc.cx
 lcut.us
 leeturl.net
+letsignit.com
 leto.tk
 li.ru
 liip.to
@@ -515,7 +522,9 @@ ly9.net
 m4u.in
 m7a.org
 macte.ch
+mailinblack.com
 maillist-manage.com
+maillist-manage.in
 mail.rambler.ru
 mandrillapp.com
 mash.to
@@ -542,6 +551,7 @@ mjt.lu
 mke.me
 mlcampaignru.com
 mljt.tech
+mlsend.com
 mlsendru.com
 mmt.su
 mo.by
@@ -551,6 +561,7 @@ mockurl.com
 moourl.com
 mp77.com
 mrte.ch
+msonw.net
 mtp.pl
 mty.in
 mug.gs
@@ -572,6 +583,7 @@ n.pr
 n3n.in
 n3r.ru
 n9.cl
+nam11.safelinks.protection.outlook.com
 nam12.safelinks.protection.outlook.com
 nam.safelink.emails.azure.net
 nbc.co
@@ -750,6 +762,9 @@ sdut.us
 securityexpert.ru
 securl.ru
 sendgrid.net
+sendibm1.com
+sendibm2.com
+sendibm3.com
 sendit.in
 sendpul.se
 sendsay.ru
@@ -771,6 +786,7 @@ short.nr
 short.su
 short.to
 shortb.net
+shortener.live
 shorten.ee
 shorten.im
 shorten.ws
@@ -828,6 +844,7 @@ sp2.ro
 spedr.com
 speed-tester.info
 spmailtechnol.com
+spmailtechnolo.com
 sq6.ru
 srclick.ru
 srcom.net
@@ -1039,6 +1056,7 @@ uud.in
 uuu.su
 uww.me
 uyurl.com
+vadesecure.com
 vani.sh
 vash-repetitor.ru
 vb.ly
@@ -1058,6 +1076,7 @@ wa.la
 wapo.st
 wapurl.co.uk
 warble.co
+wc4.net
 webformyself.com
 weblist.kharkov.ua
 weburl.me
