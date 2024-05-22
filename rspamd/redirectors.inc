@@ -158,6 +158,7 @@ cctv.ws
 cd.vg
 cektkp.com
 cha.la
+checkpoint.com
 chilp.it
 chzb.gr
 cjb.net
@@ -192,6 +193,7 @@ cort.as
 cortas.elpais.com
 cot.ag
 cowurl.com
+cp20.com
 cp.bitrix.ru
 cr.am
 createurl.com
@@ -238,6 +240,11 @@ easyuri.com
 easyurl.jp
 easyurl.net
 eepurl.com
+eur01.safelinks.protection.outlook.com
+eur02.safelinks.protection.outlook.com
+eur03.safelinks.protection.outlook.com
+eur04.safelinks.protection.outlook.com
+eur05.safelinks.protection.outlook.com
 ej.uz
 elurl.com
 em.digium.com
@@ -406,6 +413,7 @@ kipq.com
 kisaurl.com
 kl.am
 klck.me
+klclick1.com
 klik.sihitam.com
 klx.co
 knb.im
@@ -500,6 +508,7 @@ ly9.net
 m4u.in
 m7a.org
 macte.ch
+maillist-manage.com
 mail.rambler.ru
 mandrillapp.com
 mash.to
@@ -545,6 +554,7 @@ myloc.me
 myooo.info
 mypaqe.com
 mypl.us
+mysig.io
 mytinyurl.net
 myurl.in
 myurl.si
@@ -621,6 +631,7 @@ phpm.ru
 pi90.com
 picourl.ru
 piks.nl
+pipedrive.email
 ping.fm
 pli.gs
 plink.es
@@ -673,6 +684,7 @@ quik.in
 qurl.com
 qz.bz
 r-ss.de
+rs6.net
 r.delphicomponent.ru
 r.im
 rb.gy
@@ -748,6 +760,7 @@ short.nr
 short.su
 short.to
 shortb.net
+shorten.ee
 shorten.im
 shorten.ws
 shorter.me
@@ -780,6 +793,7 @@ sl.to
 slate.me
 sli.su
 slki.ru
+smai.ly
 smallr.com
 smallurl.in
 smallurl.ru
@@ -801,6 +815,7 @@ sorturl.net
 sp2.ro
 spedr.com
 speed-tester.info
+spmailtechnol.com
 sq6.ru
 srclick.ru
 srcom.net
@@ -882,6 +897,7 @@ tozm.com
 tpm.ly
 tr.im
 tra.kz
+trendmicro.com
 track-mail.skbkontur.ru
 trg.li
 trii.us
@@ -893,6 +909,7 @@ trk.klclick2.com
 trk.klclick3.com
 trunc.it
 trusteml.com
+trustwave.com
 tty.su
 tuckinfo.com
 tux-pla.net
