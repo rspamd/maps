@@ -89,12 +89,14 @@ ah.ae
 aipro.ru
 airs.ru
 aka-url.com
+aka.ms
 alic.at
 all-top.ru
 all.fuseurl.com
 allshort.ru
 alturl.com
 amzn.to
+apac01.safelinks.protection.outlook.com
 apeurl.com
 api.m3653.net
 apsense.cc
@@ -241,6 +243,7 @@ elurl.com
 em.digium.com
 emea01.safelinks.protection.outlook.com
 email.account.2gis.com
+email.advisera.com
 email.mail.ostrovok.ru
 email.mxtoolbox.com
 email.news.ostrovok.ru
@@ -428,6 +431,7 @@ li.ru
 liip.to
 liltext.com
 lin.io
+link.abusix.com
 link.ac
 link.from.homecredit.ru
 link.hhut.ru
@@ -437,6 +441,7 @@ link.mail.e.glavbukh-mail.ru
 link.mail.fd-online.ru
 link.mail.glavbukh-mail.ru
 link.mail.unp-client.ru
+link.redsift.com
 link.rengo.ru
 link.sendsay.ru
 link2me.ru
@@ -549,6 +554,7 @@ n.pr
 n3n.in
 n3r.ru
 n9.cl
+nam.safelink.emails.azure.net
 nbc.co
 nblo.gs
 nbold.com
