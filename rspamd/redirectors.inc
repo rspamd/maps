@@ -109,6 +109,7 @@ atto.co.za
 atu.ca
 autodesk.com
 avast.com
+avg.com
 avoo.net
 azc.cc
 b23.ru
@@ -166,6 +167,7 @@ cjt99.tk
 cl.lk
 cl.ly
 clck.ru
+cleverreach.com
 cli.gs
 cliccami.info
 click-me.us
@@ -188,6 +190,7 @@ cmylink.com
 cnect.us
 comyonet.com
 conta.cc
+convertkit-mail4.com
 coolestone.com
 cort.as
 cortas.elpais.com
@@ -235,6 +238,7 @@ dr.tl
 dr2.biz
 driz.ru
 durlz.info
+dynamics.com
 e.mail.ru
 easyuri.com
 easyurl.jp
@@ -361,8 +365,10 @@ ho.pe
 hop.clickbank.net
 hop.kz
 hopclicks.com
+hornetsecurity.com
 href.in
 hsblinks.com
+hs-sales-engage.com
 htxt.it
 hubb.me
 huff.to
@@ -519,6 +525,7 @@ micurl.com
 migre.me
 miliuner.com
 mimecast.com
+mimecastprotect.com
 miniurl.com
 miniurl.net.ru
 miniurl.pl
@@ -597,6 +604,7 @@ oiurl.com
 om.ly
 omf.gd
 omoikane.net
+onpdr.com
 on.cnn.com
 on.mktw.net
 oogyah.com
@@ -741,6 +749,7 @@ securityexpert.ru
 securl.ru
 sendgrid.net
 sendit.in
+sendpul.se
 sendsay.ru
 sendurl.info
 sg-url.tk
@@ -993,6 +1002,7 @@ urli.nl
 urlin.it
 urlink.eu
 urlis.net
+urlisolation.com
 urlite.de
 urlmint.com
 urlms.com
