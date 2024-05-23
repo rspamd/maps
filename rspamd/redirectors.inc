@@ -193,7 +193,12 @@ cmylink.com
 cnect.us
 comyonet.com
 conta.cc
+convertkit-mail1.com
+convertkit-mail2.com
+convertkit-mail3.com
 convertkit-mail4.com
+convertkit-mail5.com
+convertkit-mail6.com
 convertkit-mail.com
 coolestone.com
 cort.as
@@ -789,6 +794,7 @@ sendit.in
 sendpdr.com
 sendpul.se
 sendsay.ru
+sendsmaily.net
 sendurl.info
 sg-url.tk
 sg4d.com
