@@ -1350,6 +1350,7 @@ image/vnd.tencent.tap 0
 image/vnd.valve.source.texture 0
 image/vnd.xiff 0
 image/vnd.zbrush.pcx 0
+image/webp 0
 image/wmf 0
 image/x-wmf 0
 message/CPIM 0
