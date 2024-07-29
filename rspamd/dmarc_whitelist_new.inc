@@ -452,6 +452,7 @@ mlg.tv
 mns.gov.ua
 mod.gov.az
 molisa.gov.vn
+monobank.ua
 mos.ru
 mosoblbank.ru
 mosreg.ru
@@ -558,6 +559,7 @@ paypal.es both:1.0
 paypal.fr both:1.0
 paypal.nl both:1.0
 paypal.se both:1.0
+pb.ua
 pbgc.gov
 pc.gov.au
 pch.com
