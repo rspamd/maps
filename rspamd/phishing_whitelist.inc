@@ -3,3 +3,4 @@
 protect-*.mimecast.com
 *.safelinks.protection.outlook.com
 urldefense.proofpoint.com
+links.customers.instacartemail.com
