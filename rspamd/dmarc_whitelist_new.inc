@@ -130,7 +130,6 @@ bromley.gov.uk
 bts.gov
 business.gov
 caerphilly.gov.uk
-caixa.gov.br both:1.0
 cambridge-news.co.uk
 campaign.gov.uk
 cancer.gov
