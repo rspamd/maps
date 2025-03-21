@@ -358,6 +358,7 @@ goo.gl
 goo.pm
 goo.su
 good.ly
+googleads.g.doubleclick.net
 goshrink.com
 gosite.in
 goto.pattayacitythailand.com
