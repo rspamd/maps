@@ -821,6 +821,7 @@ shortb.net
 shortener.live
 shorten.ee
 shorten.im
+shorten.world
 shorten.ws
 shorter.me
 shortlinks.co.uk
