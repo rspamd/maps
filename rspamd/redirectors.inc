@@ -456,6 +456,7 @@ kr1n.ru
 krunchd.com
 krz.ch
 ktzr.us
+kutt.it
 l.pr
 l24.cm
 l3ss.me
@@ -820,6 +821,7 @@ shortb.net
 shortener.live
 shorten.ee
 shorten.im
+shorten.world
 shorten.ws
 shorter.me
 shortlinks.co.uk
