@@ -209,7 +209,6 @@ verizon.com
 verizonwireless.com
 vimeo.com
 vine.co
-vk.com
 vmware.com
 vtb24.ru
 wahoofitness.com
