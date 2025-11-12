@@ -131,6 +131,7 @@ microsoft.com
 microsoftonline.com
 minmyndighetspost.se
 moikrug.ru
+monobank.ua
 mts.ru
 neobux.com
 netflix.com
@@ -159,6 +160,7 @@ paypal.fr
 paypal.it
 paypal.ru
 paytm.com
+pb.ua
 pch.com
 pinterest.com
 porn.com
