@@ -80,6 +80,7 @@ askona.ru
 asos.com
 assist.ru
 atf.gov
+atlassian.com
 avast.com
 avg.com
 avito.ru
@@ -107,6 +108,7 @@ biopreferred.gov
 birminghampost.net
 bishopsmove.com
 bitbank.cc
+bitbucket.org
 bjs.gov
 blizzard.com
 blog.gov.uk
@@ -126,6 +128,7 @@ bridgend.gov.uk
 brighton-hove.gov.uk
 britishembassy.gov.uk
 broadbandmap.gov
+broadcom.com
 bromley.gov.uk
 bts.gov
 business.gov
@@ -201,6 +204,7 @@ dhs.gov
 diablo3.com
 digital.gov
 digitalgov.gov
+digitalocean.com
 digitalliteracy.gov
 disability.gov
 disability.gov.uk
@@ -252,6 +256,7 @@ emarsys.com
 ems.gov
 energystar.gov
 erewash.gov.uk
+eset.com
 esetnod32.ru
 essex-fire.gov.uk
 eubank.kz
@@ -331,9 +336,11 @@ harp.gov
 hawaiicounty.gov
 hdfcbank.com
 hdrezka.ag
+he.net
 healthcare.gov
 healthypeople.gov
 hertfordshire.gov.uk
+heroku.com
 hh.kz
 hh.ru
 highland.gov.uk
@@ -343,10 +350,14 @@ hiv.gov
 hmrc.gov.uk
 homeoffice.gov.uk
 homesales.gov
+hostinger.com
 hotels.com
 hounslow.gov.uk
 howto.gov
 hru.gov
+hp.com
+hpe.com
+huawei.com
 huduser.gov
 hurricanes.gov
 iba.gov.au
@@ -360,6 +371,7 @@ ikea.fr
 ikea.gr
 ikea.nl
 ikea.pl
+ionos.com
 imgur.com
 incometaxindiaefiling.gov.in
 ing.com
@@ -408,6 +420,7 @@ lichfielddc.gov.uk
 lincoln.gov.uk
 lincolnshire.gov.uk
 linkedin.com
+linode.com
 livejournal.com
 llnl.gov
 lloydsbank.com
@@ -418,6 +431,7 @@ love.ru
 lufthansa-group.com
 lufthansa.com
 mackeeper.com
+maersk.com
 mailgun.net bl:1.0
 mak.com
 mandtbank.com
@@ -452,7 +466,6 @@ mlg.tv
 mns.gov.ua
 mod.gov.az
 molisa.gov.vn
-monobank.ua
 mos.ru
 mosoblbank.ru
 mosreg.ru
@@ -472,6 +485,7 @@ n-kesteven.gov.uk
 n-somerset.gov.uk
 nads.gov.ua
 nalog.ru
+namecheap.com
 namus.gov
 nasa.gov
 nationalarchives.gov.uk
@@ -510,6 +524,7 @@ nordea.se
 north-ayrshire.gov.uk
 north-norfolk.gov.uk
 northlincs.gov.uk
+norton.com
 norwich.gov.uk
 notifications.service.gov.uk
 nottinghamcity.gov.uk
@@ -519,12 +534,15 @@ nrel.gov
 nsf.gov
 nsopr.gov
 nsopw.gov
+nvidia.com
 nwtrb.gov
 oculus.com
 ofcm.gov
 office.com
 officemag.ru
 ok.ru
+oracle.com
+oraclecloud.com
 omb.gov
 ombudsman.gov.tr
 onedrive.com
@@ -559,7 +577,6 @@ paypal.es both:1.0
 paypal.fr both:1.0
 paypal.nl both:1.0
 paypal.se both:1.0
-pb.ua
 pbgc.gov
 pc.gov.au
 pch.com
@@ -608,6 +625,7 @@ reisebank.de
 renfrewshire.gov.uk
 rentonwa.gov
 reportband.gov
+revolut.com
 rgs.ru
 richmond.gov.uk
 rivers.gov
@@ -630,6 +648,7 @@ sberbank.ru
 sberbank-ast.ru
 sbir.gov
 sbis.ru
+scaleway.com
 scality.com
 scdhhs.gov
 science360.gov
@@ -665,6 +684,7 @@ solardecathlon.gov
 sourceforge.net
 south-ayrshire.gov.uk
 sovest.ru
+spaceship.com
 spbrealty.ru
 sportmaster.ru
 squarespace.com
@@ -764,6 +784,7 @@ vmc.gov.in
 voa.gov.uk
 volunteer.gov
 vote.gov
+vultr.com
 walsall.gov.uk
 wandsworth.gov.uk
 wartimecontracting.gov
@@ -782,6 +803,7 @@ womenshealth.gov
 wrexham.gov.uk
 wrigley.com
 wrp.gov
+xiaomi.com
 yandex-team.ru
 york.gov.uk
 youla.ru
