@@ -757,7 +757,6 @@ visa.com.cn
 visa.com.tw
 visa.pl
 vistacampus.gov
-vk.com bl:1.0 
 vkrugudruzei.ru
 vkusnyblog.ru
 vmc.gov.in
