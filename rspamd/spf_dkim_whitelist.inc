@@ -44,6 +44,7 @@ bitly.com
 bleacherreport.com
 blogger.com
 bloomberg.com
+bluehost.com
 booking.com
 box.com
 bt.com
@@ -110,6 +111,7 @@ instagram.com
 intel.com
 irctc.co.in
 kayak.com
+kernel.org
 kickstarter.com
 kijiji.ca
 kotaku.com
@@ -146,6 +148,7 @@ ofd.yandex.ru
 ok.ru
 olx.ua
 overstock.com
+ovh.com
 ozon.ru
 ozon.travel
 pandora.com
@@ -170,6 +173,7 @@ rakuten.co.jp
 reddit.com
 researchgate.net
 salesforce.com
+samsung.com
 sciencedirect.com
 shopify.com
 skanetrafiken.se
@@ -215,6 +219,7 @@ vmware.com
 vtb24.ru
 wahoofitness.com
 walmart.com
+wasabi.com
 wav.tv
 wellsfargo.com
 whatsapp.com
