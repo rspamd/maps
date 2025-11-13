@@ -15,6 +15,7 @@ aberdeenshire.gov.uk
 abilityone.gov
 absolutbank.ru
 access-board.gov
+accessbankplc.com
 acquisition.gov
 acus.gov
 ada.gov
@@ -29,6 +30,7 @@ admongo.gov
 adobe.dk
 adobe.es
 adobeawards.com
+adobesign.com
 adp.com both:1.0
 advice.hmrc.gov.uk
 aerocivil.gov.co
@@ -85,11 +87,16 @@ avast.com
 avg.com
 avito.ru
 avtoradio.ru
+aws.com
 axisbank.com
+authorize.net
+automatiq.com
 badoo.com bl:1.0
 baltbank.ru
 bank.lv
+bankalhabib.com
 banki.ru
+bankalfalah.com
 bankofamerica.com
 barclaycard.co.uk both:1.0
 barclays.co.uk both:1.0
@@ -100,6 +107,7 @@ beeline.ru
 benefits.gov
 betfaq.ru
 biglion.ru
+binance.com
 binary.com
 binbank.ru
 bioethics.gov
@@ -155,6 +163,7 @@ chcoc.gov
 childstats.gov
 cio.gov
 circle.com
+cisa.gov
 citibank.ae
 citibank.co.in
 citibank.co.uk
@@ -165,6 +174,7 @@ cloud.gov
 cloudflare.com
 cms.gov
 co-operativebank.co.uk
+coinbase.com
 colgate.com.br
 collegedrinkingprevention.gov
 companies-house.gov.uk
@@ -200,8 +210,10 @@ deutschebank.be
 deutschebank.co.in
 dh.gov.uk
 dhl.com
+dhl.de
 dhs.gov
 diablo3.com
+diia.gov.ua
 digital.gov
 digitalgov.gov
 digitalocean.com
@@ -241,6 +253,7 @@ ebay.fr
 ebay.in
 ebay.it
 ebay.se
+ecobank.com
 economy.gov.tr
 econsumer.gov
 ed.gov
@@ -269,6 +282,7 @@ facebook.com
 facebookmail.com
 fbi.gov
 fcc.gov both:1.0
+fcmb.com
 fco.gov.uk
 fdic.gov
 feb.gov
@@ -281,6 +295,7 @@ fema.gov
 ferc.gov
 fhfa.gov
 fhfaoig.gov
+fidelitybank.ng
 fife.gov.uk
 financialresearch.gov
 financialstability.gov
@@ -374,6 +389,7 @@ ikea.pl
 ionos.com
 imgur.com
 incometaxindiaefiling.gov.in
+infotech.gov.ua
 ing.com
 inl.gov
 inlandrevenue.gov.uk
@@ -381,6 +397,7 @@ insider.co.uk
 insolvency.gov.uk
 instagram.com
 insurekidsnow.gov
+intuit.com
 invasivespeciesinfo.gov
 investor.gov
 irda.gov.in
@@ -408,6 +425,9 @@ kivra.com
 klarna.com
 klarna.se
 kpk.gov.pl
+kucoin.com
+kumaribank.com
+kuronekoyamato.co.jp
 lacoast.gov
 landsbanki.is
 lanl.gov
@@ -435,6 +455,7 @@ maersk.com
 mailgun.net bl:1.0
 mak.com
 mandtbank.com
+mashreq.com
 mcc.gov
 mcga.gov.uk
 mchenrycountyil.gov
@@ -443,10 +464,12 @@ mediamarkt.se
 medicaid.gov
 medicare.gov
 medium.com
+meezanbank.com
 megafon.ru
 megaplan.ru
 mercadolibre.com.ar
 mercadolivre.com.br
+mercury.com
 merseyfire.gov.uk
 merthyr.gov.uk
 meshok.ru
@@ -476,6 +499,7 @@ mspb.gov
 msport.gov.pl
 murfreesborotn.gov
 mvideo.ru
+mvs.gov.ua
 mxtoolbox.com
 mymoney.gov
 myplate.gov
@@ -486,11 +510,13 @@ n-somerset.gov.uk
 nads.gov.ua
 nalog.ru
 namecheap.com
+namesilo.com
 namus.gov
 nasa.gov
 nationalarchives.gov.uk
 nationalservice.gov
 nationsreportcard.gov
+navyfederal.org
 nbr.gov.bd
 nbtbank.com
 ncifcrf.gov
@@ -501,6 +527,7 @@ nea.gov
 nelincs.gov.uk
 neobux.com
 neolane.net
+netcraft.com
 netflix.com
 newegg.com
 newmoney.gov
@@ -558,10 +585,12 @@ ozon.ru
 paauditor.gov
 paccar.com
 paddle8.com
+pagerduty.com
 pandemicflu.gov
 passport.gov.uk
 payeer.com
 paymentaccuracy.gov
+payoneer.com
 paypal-community.com
 paypal.be both:1.0
 paypal.cn both:1.0
@@ -570,6 +599,7 @@ paypal.co.uk both:1.0
 paypal.com both:1.0
 paypal.com.au both:1.0
 paypal.com.br both:1.0
+paypal.com.hk both:1.0
 paypal.com.mx both:1.0
 paypal.de both:1.0
 paypal.dk both:1.0
@@ -591,6 +621,7 @@ pinterest.se
 pkc.gov.uk
 planeta.ru
 platron.ru
+playstation.com
 plymouth.gov.uk
 pm.gov.uk
 pmf.gov
@@ -642,6 +673,7 @@ rushcliffe.gov.uk
 rutubeinfo.ru
 sacn.gov.uk
 safercar.gov
+sanjoseca.gov
 samhsa.gov
 sanmarcostx.gov
 sberbank.ru
@@ -654,8 +686,10 @@ scdhhs.gov
 science360.gov
 sciencebase.gov
 scijinks.gov
+scotiabank.com
 sec.gov
 secretservice.gov
+sectigo.com
 section508.gov
 semnan.ac.ir
 senate.gov
@@ -663,6 +697,7 @@ sendgrid.net bl:1
 seniorcorps.gov
 serpro.gov.br both:1.0
 service.gov.uk
+siteground.com
 sftool.gov
 shetland.gov.uk
 shropshire-cc.gov.uk
@@ -692,11 +727,14 @@ sravni.ru
 srs.gov
 staffordbc.gov.uk
 stat.gov.az
+starlink.com
 stedmundsbury.gov.uk
+sterling.ng
 sthelens.gov.uk
 stihl.ru
 stopalcoholabuse.gov
 stopfraud.gov
+stripe.com
 studentloans.gov
 subscribe.ru
 suffolkcc.gov.uk
@@ -767,6 +805,7 @@ utair.ru
 utkonos.ru
 vaccines.gov
 valeofglamorgan.gov.uk
+venmo.com
 verizonwireless.com
 vigoda.ru
 visa.co.uk
@@ -777,6 +816,7 @@ visa.com.cn
 visa.com.tw
 visa.pl
 vistacampus.gov
+vfsglobal.com
 vk.com bl:1.0 
 vkrugudruzei.ru
 vkusnyblog.ru
@@ -795,14 +835,19 @@ west-lindsey.gov.uk
 westernunion.com
 westernunion.ru
 westlothian.gov.uk
+wemabank.com
 whatsapp.com
 whistleblowers.gov
 wirral.gov.uk
+wise.com
 wlga.gov.uk
 womenshealth.gov
+worldpay.com
 wrexham.gov.uk
 wrigley.com
 wrp.gov
+x.com
+xero.com
 xiaomi.com
 yandex-team.ru
 york.gov.uk
@@ -811,6 +856,7 @@ youth.gov
 youthrules.gov
 youtube.com
 zcts.ru
+zerossl.com
 zendesk.com
 zionsbank.com
 zomato.com
