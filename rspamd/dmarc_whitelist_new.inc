@@ -817,7 +817,6 @@ visa.com.tw
 visa.pl
 vistacampus.gov
 vfsglobal.com
-vk.com bl:1.0 
 vkrugudruzei.ru
 vkusnyblog.ru
 vmc.gov.in
