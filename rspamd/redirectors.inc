@@ -831,6 +831,7 @@ shortner.com
 shorturl.asia
 shorturl.at
 shorturl.com
+shorturl.fm
 shorturl.me
 shorturl.net
 shorturls.co.uk
