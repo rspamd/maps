@@ -280,6 +280,7 @@ exist.ru
 expediamail.com
 facebook.com
 facebookmail.com
+factory.ai
 fbi.gov
 fcc.gov both:1.0
 fcmb.com
