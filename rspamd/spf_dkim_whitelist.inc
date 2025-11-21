@@ -46,7 +46,6 @@ basecamp.com
 battle.net
 bestbuy.com
 bet365.com
-biglobe.ne.jp
 bitly.com
 bleacherreport.com
 blogger.com
