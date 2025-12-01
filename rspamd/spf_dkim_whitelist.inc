@@ -28,6 +28,7 @@ amazon.fr
 amazon.in
 amazon.it
 amazon.ru
+amazonaws.com
 americanexpress.com
 ancestry.com
 android.com
