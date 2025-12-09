@@ -499,7 +499,6 @@ msha.gov
 mspb.gov
 msport.gov.pl
 murfreesborotn.gov
-mvideo.ru
 mvs.gov.ua
 mxtoolbox.com
 mymoney.gov
