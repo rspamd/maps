@@ -64,7 +64,6 @@
 a1.net
 a45.in
 aaamail.zzn.com
-aapt.net.au
 aaronkwok.net
 abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com
 abcflash.net
@@ -81,7 +80,6 @@ acdcfan.com
 acmemail.net
 acninc.net
 activist.com
-adam.com.au
 add3000.pp.ua
 addcom.de
 address.com
@@ -262,9 +260,6 @@ bigger.com
 biggerbadder.com
 bigmailbox.com
 bigmir.net
-bigpond.com
-bigpond.com.au
-bigpond.net.au
 bigstring.com
 bikemechanics.com
 bikeracer.com
@@ -572,7 +567,6 @@ dm.w3internet.co.uk
 dnsmadeeasy.com
 docmail.cz
 doctor.com
-dodo.com.au
 dodsi.com
 dog.com
 dogit.com
@@ -1106,7 +1100,6 @@ ieh-mail.de
 iespana.es
 ig.com.br
 ihateclowns.com
-iinet.net.au
 ijustdontcare.com
 ikbenspamvrij.nl
 ilkposta.com
@@ -1187,7 +1180,6 @@ iowaemail.com
 ip4.pp.ua
 ip6.pp.ua
 ipoo.org
-iprimus.com.au
 iqemail.com
 irangate.net
 ireland.com
@@ -2935,7 +2927,6 @@ netnoir.net
 netpiper.com
 netralink.com
 netscape.net
-netspace.net.au
 netster.com
 nettaxi.com
 nettemail.com
@@ -3025,7 +3016,6 @@ operamail.com
 opoczta.pl
 optician.com
 optonline.net
-optusnet.com.au
 orange.fr
 orbitel.bg
 orgmail.net
@@ -3074,7 +3064,6 @@ outlook.sk
 over-the-rainbow.com
 ownmail.net
 ozbytes.net.au
-ozemail.com.au
 pacbell.net
 pacific-ocean.com
 pacific-re.com
@@ -3556,8 +3545,6 @@ telfort.nl
 telfortglasvezel.nl
 telinco.net
 telpage.net
-telstra.com
-telstra.com.au
 temp-mail.com
 temp-mail.de
 temp.headstrong.de
@@ -3655,7 +3642,6 @@ torontomail.com
 tortenboxer.de
 totalmail.de
 totalmusic.net
-tpg.com.au
 trash-mail.ml
 trashdevil.de
 trashymail.net
@@ -3831,7 +3817,6 @@ weibsvolk.de
 weibsvolk.org
 weinenvorglueck.de
 welsh-lady.com
-westnet.com.au
 wfgdfhj.tk
 whale-mail.com
 whartontx.com
