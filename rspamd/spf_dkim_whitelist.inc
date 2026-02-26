@@ -147,7 +147,6 @@ kijiji.ca
 kotaku.com
 lensa.com
 letsencrypt.org
-libero.it
 lifehacker.com
 likes.com
 linkedin.com
