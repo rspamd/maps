@@ -436,6 +436,7 @@ jijr.com
 jmb.tw
 jom.la
 joo.ru
+jpeg.ly
 just.as
 juu.cc
 keep2.me
@@ -902,6 +903,7 @@ surl.li
 surl.me
 surs.nl
 susurl.com
+sw.run
 swturl.com
 t.cn
 t.co
