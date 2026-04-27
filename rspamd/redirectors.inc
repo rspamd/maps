@@ -903,7 +903,6 @@ surl.li
 surl.me
 surs.nl
 susurl.com
-sw.run
 swturl.com
 t.cn
 t.co
