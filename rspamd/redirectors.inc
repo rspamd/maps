@@ -436,6 +436,7 @@ jijr.com
 jmb.tw
 jom.la
 joo.ru
+jpeg.ly
 just.as
 juu.cc
 keep2.me
