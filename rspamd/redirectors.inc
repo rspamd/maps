@@ -523,6 +523,7 @@ lnk.in
 lnk.ly
 lnk.ms
 lnk.sk
+lnk.ua
 lnkd.in
 lnkiy.in
 lnks.gd
