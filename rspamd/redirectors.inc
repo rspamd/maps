@@ -827,6 +827,7 @@ shorten.im
 shorten.world
 shorten.ws
 shorter.me
+shortlink.uk
 shortlinks.co.uk
 shortn.me
 shortner.com
