@@ -1,6 +1,7 @@
 000d.ru
 0845.com
 0c.ru
+0cn.de
 0lv.ru
 0pen.me
 0rz.tw
@@ -36,6 +37,7 @@
 3fw.ru
 3le.ru
 3x.si
+3x7.de
 4.gg
 4.ly
 4job.ru
@@ -117,6 +119,7 @@ awstrack.me
 azc.cc
 b23.ru
 b2l.me
+bab.si
 backupurl.com
 bacn.me
 bai.lu
@@ -428,6 +431,7 @@ iurlz.com
 ix.lt
 ixr.be
 j.mp
+j0b.de
 j3w.it
 ja.cx
 jdem.cz
@@ -460,6 +464,8 @@ krunchd.com
 krz.ch
 ktzr.us
 kutt.it
+kurzlink.ch
+kurzlinks.de
 l.pr
 l24.cm
 l3ss.me
@@ -646,6 +652,7 @@ o.ly
 oc1.us
 oeeq.com
 oiurl.com
+ogy.de
 om.ly
 omf.gd
 omoikane.net
@@ -910,6 +917,7 @@ t.cn
 t.co
 t.lh.com
 t.ly
+t1p.de
 t1ny.net
 ta.gd
 ta.gg
@@ -1062,6 +1070,7 @@ urlg.in
 urlgator.com
 urlgeo.me
 urlgo.ru
+urli.info
 urli.nl
 urlin.it
 urlink.eu
