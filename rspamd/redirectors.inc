@@ -809,7 +809,6 @@ sendibm3.com
 sendit.in
 sendpdr.com
 sendpul.se
-sendsay.ru
 sendsmaily.net
 sendurl.info
 sg-url.tk
