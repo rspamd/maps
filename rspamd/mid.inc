@@ -24,6 +24,7 @@ www.nalog.ru
 otc.ru
 news.ozon.ru /^[A-z0-9+/]{32}$/
 sender.ozon.ru /^[A-z0-9+/]{32}$/
+pprcard.ru /^[A-F0-9]{32}$/
 professionali.ru
 psbank.ru
 qiwi.ru
