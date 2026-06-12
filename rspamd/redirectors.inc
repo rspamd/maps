@@ -493,7 +493,6 @@ link.mail.glavbukh-mail.ru
 link.mail.unp-client.ru
 link.redsift.com
 link.rengo.ru
-link.sendsay.ru
 link2me.ru
 linkbee.com
 linkbun.ch
