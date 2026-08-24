@@ -222,6 +222,7 @@ civibank.com
 civibank.it
 cjb.net
 classmates.com
+clerk.io
 clickbank.net
 closebrothers.com
 closebrothers.co.uk
