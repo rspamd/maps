@@ -175,7 +175,6 @@ netflix.com
 netsuite.com
 newegg.com
 nhk.or.jp
-nifty.com
 nikkeibp.co.jp
 nyaa.se
 nytimes.com
@@ -226,7 +225,6 @@ skat.dk
 skatteverket.se
 slack.com
 slideshare.net
-so-net.ne.jp
 southwest.com
 spotify.com
 springer.com
