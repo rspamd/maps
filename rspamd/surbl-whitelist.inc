@@ -821,9 +821,9 @@ dovecot.org
 exacttarget.com
 github.com
 isc.org
-# list-manage1.com # grey
-# list-manage2.com # grey
-# list-manage.com # grey
+list-manage1.com
+list-manage2.com
+list-manage.com
 lists.isc.org
 lists.roundcube.net
 svn.apache.org
